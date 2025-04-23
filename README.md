@@ -16,6 +16,13 @@ The dashboard enables users to interactively explore the data, make data-driven 
 
 ---
 
+## Sample DAX
+
+Completed_Payments_Ratio = 
+VAR TotalOrders = CALCULATE(COUNTROWS(payment5), ALL(payment5[transaction_status]))
+VAR CompletedOrders = CALCULATE(COUNTROWS(payment5), payment5[transaction_status] = "Completed")
+RETURN IF(TotalOrders = 0, BLANK(), CompletedOrders / TotalOrders)
+
 ## Key Features
 
 - **Sales Insights**
