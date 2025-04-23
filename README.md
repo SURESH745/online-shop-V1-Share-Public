@@ -10,11 +10,8 @@ The dashboard enables users to interactively explore the data, make data-driven 
 
 ## 📊 Dashboard Snapshot
 
-![Marketing Overview Dashboard](https://github.com/SURESH745/online-shop-V1-Share-Public/blob/main/Screenshot%202025-04-23%20220735.png)
-
-> Ensure the image path points to your actual screenshot. If not yet uploaded, rename your screenshot and place it inside an `assets` folder in the repo.
-
----
+![Marketing Overview Dashboard](
+https://github.com/SURESH745/online-shop-V1-Share-Public/blob/main/Screenshot%202025-04-23%20223514.png)
 
 ## Sample DAX
 
@@ -63,6 +60,8 @@ The report integrates multiple data sources as follows:
 | `customers`        | Customer segmentation and types                   |
 
 ---
+
+![Marketing Overview Dashboard](https://github.com/SURESH745/online-shop-V1-Share-Public/blob/main/Screenshot%202025-04-23%20220735.png)
 
 ## KPIs Summary (Sample Data)
 
