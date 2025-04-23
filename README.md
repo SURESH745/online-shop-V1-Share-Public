@@ -10,7 +10,7 @@ The dashboard enables users to interactively explore the data, make data-driven 
 
 ## 📊 Dashboard Snapshot
 
-![Marketing Overview Dashboard](https://github.com/SURESH745/online-shop-V1-Share-Public/blob/main/assets/marketing-dashboard-preview.png)
+![Marketing Overview Dashboard](https://github.com/SURESH745/online-shop-V1-Share-Public/blob/main/Screenshot%202025-04-23%20220735.png)
 
 > Ensure the image path points to your actual screenshot. If not yet uploaded, rename your screenshot and place it inside an `assets` folder in the repo.
 
