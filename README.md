@@ -43,6 +43,7 @@ RETURN IF(TotalOrders = 0, BLANK(), CompletedOrders / TotalOrders)
   - Time-based slicers for custom analysis
 
 ---
+![Marketing Overview Dashboard](https://github.com/SURESH745/online-shop-V1-Share-Public/blob/main/Screenshot%202025-04-23%20223514.png)
 
 ## Data Model Summary
 
